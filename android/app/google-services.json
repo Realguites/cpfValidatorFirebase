@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "889389917412",
+    "project_id": "cpfval",
+    "storage_bucket": "cpfval.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:889389917412:android:83abe763e979e5e2eef8f1",
+        "android_client_info": {
+          "package_name": "com.example.trabalho2"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "889389917412-cmqmne87uobb42tejjb0tgp8o34dmdk1.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyALBSovQtwuW2qGxAcVixCJJ4A43v_evP8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "889389917412-cmqmne87uobb42tejjb0tgp8o34dmdk1.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
